@@ -108,6 +108,7 @@ img.add_border {
 </head>
 <body>
 <div class='container'><nav>
+        
     <div class="site-wrap">
 
     <div class="site-mobile-menu">
@@ -153,4 +154,114 @@ img.add_border {
           </div>
           
         </header>
-    </nav><section><h1>Site Map</h1><div id="tipue_search_content"></div><ul><li><a href='Weeks.html'>Weeks</a><ul><li><a href='week1-5.html'>week1-5</a></li></ul><li><a href='Assignments.html'>Assignments</a><ul><li><a href='Random grouping.html'>Random grouping</a><ul><li><a href='Portable system.html'>Portable system</a><li><a href='Four wheel car.html'>Four wheel car</a></li></li></ul></ul><li><a href='About.html'>About</a><li><a href='Develop.html'>Develop</a></li></ul></section></div></body></html>
+    <div id="tipue_search_content">Random grouping << <a href='Random grouping.html'>Previous</a> <a href='Four wheel car.html'>Next</a> >> Four wheel car<br /><h1>Portable system</h1>
+<p>Describe how to prepare a portable Python programming system for Windows 10 64bit system to allow one the maintain CMSiMDE website, Pelican blog and Reveal.js presentation on Github?</p>
+<p>影片連結：<span><a href="https://www.youtube.com/watch?v=geKi4BFJb3Y">https://www.youtube.com/watch?v=geKi4BFJb3Y</a></span></p>
+<p><strong>Python3.7.3</strong><strong>升級至<span>Python3.8.2</span></strong></p>
+<p>(1) 在<span>2019fall</span>裡建立<span>cd2020</span></p>
+<p>(2) cd2020內新增<span>data</span>，在<span>data</span>底下新增<span>py32</span>、<span>wscite432</span>、<span>portablegit</span></p>
+<p>(3) 至<span>Python</span>官網找<span>3.8.2</span>版本，拉到最底下點選<span>Windows x86-64  </span></p>
+<p>    executable installer下載安裝檔，路徑設定到<span>data/py382</span></p>
+<p><span style="color: #ff6600;">※選項pip取消勾選</span></p>
+<p>(4) 下載<span>SciTE</span>系統，下載完後解壓縮至<span>data/wsite432</span></p>
+<p><span>(5) 建立新的<span>start.bat</span>、<span>stop.bat</span></span></p>
+<pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">@echo off
+set Disk=y
+subst %Disk%: "data"
+  
+%Disk%:
+  
+set HomePath=%Disk%:\home
+set HomeDrive=%Disk%:\home
+set Home=%Disk%:\home
+set USERPROFILE=%Disk%:\home
+  
+REM å°‡ç³»çµ± Python ç¨‹å¼çš„ io è¨­ç‚º utf-8
+set PYTHONIOENCODING="utf-8"
+  
+#REM for putty
+#Set GIT_HOME=%CDisk%:\portablegit\bin\
+#Set GIT_SSH=%Disk%:\putty\plink.exe
+  
+set PYTHONPATH=%Disk%:\py382\DLLs;%Disk%:\py382\Lib;%Disk%:\py382\Lib\site-packages;
+set PYTHONHOME=%Disk%:\py382
+  
+set path_python=%Disk%:\py382;%Disk%:\py382\Scripts;
+set path_msys2=%Disk%:\msys64\mingw64\bin;
+set path_git=%Disk%:\portablegit\bin;
+set path_tcc=%Disk%:\tcc;
+  
+path=%Disk%:;%path_python%;%path_msys2%;%path_git%;%path_tcc%;
+  
+start /MIN cmd.exe
+start /MIN cmd.exe
+start /MIN cmd.exe
+start /MIN cmd.exe
+  
+start /MIN %Disk%:\wscite432\wscite\SciTE.exe
+start /MIN %Disk%:\wscite432\wscite\SciTE.exe
+  
+Exit</pre>
+<p></p>
+<pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">@echo off
+set Disk=y
+path=%PATH%;
+  
+taskkill /IM python.exe /F
+taskkill /IM pythonw.exe /F
+taskkill /IM scite.exe /F
+  
+REM çµ‚æ­¢è™›æ“¬ç¡¬ç¢Ÿèˆ‡ç›®éŒ„çš„å°æ‡‰
+subst %Disk%: /D
+REM é—œé–‰ cmd æŒ‡ä»¤è¦–çª—
+taskkill /IM cmd.exe /F
+  
+EXIT
+</pre>
+<p>(6) 下載<span>MSY32</span>至<span>data</span>下</p>
+<p>(7) 下載<span>Portable Git 64-bit Git for Windows Portable </span>至<span> data/portablegit</span></p>
+<p>(8) 執行指令，輸入<span>python get-pip.py</span>、<span>pip install flask bs4 lxml pelican </span></p>
+<p>    markdown flask_cors leo</p>
+<br />Random grouping << <a href='Random grouping.html'>Previous</a> <a href='Four wheel car.html'>Next</a> >> Four wheel car</div>
+        
+    <!-- footer -->
+      <div class="container">
+        <div class="row pt-3 mx-auto">
+            <p>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            </p>
+        </div>
+      </div>
+    <!-- for footer -->
+    
+        </div> <!-- for site wrap -->
+            <!-- <script src="../cmsimde/static/chimper/js/jquery-3.3.1.min.js"></script> -->
+            <script src="../cmsimde/static/chimper/js/jquery-migrate-3.0.1.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery-ui.js"></script>
+            <script src="../cmsimde/static/chimper/js/popper.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/bootstrap.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/owl.carousel.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.stellar.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.countdown.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.magnific-popup.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/bootstrap-datepicker.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/aos.js"></script>
+            <!--
+            <script src="../cmsimde/static/chimper/js/typed.js"></script>
+                    <script>
+                    var typed = new Typed('.typed-words', {
+                    strings: ["Web Apps"," WordPress"," Mobile Apps"],
+                    typeSpeed: 80,
+                    backSpeed: 80,
+                    backDelay: 4000,
+                    startDelay: 1000,
+                    loop: true,
+                    showCursor: true
+                    });
+                    </script>
+            -->
+            <script src="../cmsimde/static/chimper/js/main.js"></script>
+        </body></html>
+        

@@ -143,7 +143,7 @@ img.add_border {
                             <li><a href="./../blog/index.html">blog</a></li>
                         </ul>
                       </li>
-                     <li class='has-children'><a href='Weeks.html'>Weeks</a><ul class='dropdown'><li><a href='week1-5.html'>week1-5</a></li></ul><li class='has-children'><a href='Assignments.html'>Assignments</a><ul class='dropdown'><li><a href='Assignments1.html'>Assignments1</a></li></ul><li><a href='About.html'>About</a><li><a href='Develop.html'>Develop</a></li>
+                     <li class='has-children'><a href='Weeks.html'>Weeks</a><ul class='dropdown'><li><a href='week1-5.html'>week1-5</a></li></ul><li class='has-children'><a href='Assignments.html'>Assignments</a><ul class='dropdown'><li class='has-children'><a href='Random grouping.html'>Random grouping</a><ul class='dropdown'><li><a href='Portable system.html'>Portable system</a><li><a href='Four wheel car.html'>Four wheel car</a></li></li></ul></ul><li><a href='About.html'>About</a><li><a href='Develop.html'>Develop</a></li>
                       </ul>
                 </nav>
               </div>
@@ -154,14 +154,13 @@ img.add_border {
           </div>
           
         </header>
-    <div id="tipue_search_content">Assignments << <a href='Assignments.html'>Previous</a> <a href='About.html'>Next</a> >> About<br /><h1>Assignments1</h1>
-<h4>Random grouping</h4>
+    <div id="tipue_search_content">Assignments << <a href='Assignments.html'>Previous</a> <a href='Portable system.html'>Next</a> >> Portable system<br /><h1>Random grouping</h1>
 <ol>
 <li>Describe how to do an efficient random grouping for this course or do the roll calling randomly?
 <p><strong>*</strong><strong>在亂數分</strong><strong>組及隨機點名的程式中，利用<span>Dart</span>內的<span>HTML</span>進行操作</strong></p>
 </li>
 </ol>
-<p><span style="color: #ff0000;"><span style="color: #000000;"><span>PDF：</span></span></span></p>
+<p><span style="color: #ff0000;"><span style="color: #000000;"><span>PDF：<a href="https://github.com/s40739214/cd2020/tree/master/downloads">https://github.com/s40739214/cd2020/tree/master/downloads</a></span></span></span></p>
 <p><span style="color: #ff0000;"><span style="color: #000000;">影片連結：<a href="https://www.youtube.com/watch?v=8DPiM75fRQQ">https://www.youtube.com/watch?v=8DPiM75fRQQ</a></span></span></p>
 <p><span style="color: #ff0000;"><span style="color: #000000;"><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/8DPiM75fRQQ" width="560"></iframe></span></span><span style="color: #ff0000;"><span style="color: #000000;"><br/></span></span></p>
 <p><span style="color: #ff6600;"><strong>亂數分組</strong></span></p>
@@ -181,83 +180,7 @@ img.add_border {
 <p><img alt="" height="534" src="./../images/s5.jpg" width="949"/></p>
 <p>Step3：輸入完畢確認無誤後按下run，即可完成隨機點名！</p>
 <p><img alt="" height="534" src="./../images/s6.jpg" width="949"/></p>
-<h4><strong style="color: #626262;">Portable system</strong></h4>
-<p>Describe how to prepare a portable Python programming system for Windows 10 64bit system to allow one the maintain CMSiMDE website, Pelican blog and Reveal.js presentation on Github?</p>
-<p>影片連結：<span><a href="https://www.youtube.com/watch?v=geKi4BFJb3Y">https://www.youtube.com/watch?v=geKi4BFJb3Y</a></span></p>
-<p><strong>Python3.7.3</strong><strong>升級至<span>Python3.8.2</span></strong></p>
-<p>(1) 在<span>2019fall</span>裡建立<span>cd2020</span></p>
-<p>(2) cd2020內新增<span>data</span>，在<span>data</span>底下新增<span>py32</span>、<span>wscite432</span>、<span>portablegit</span></p>
-<p>(3) 至<span>Python</span>官網找<span>3.8.2</span>版本，拉到最底下點選<span>Windows x86-64  </span></p>
-<p>    executable installer下載安裝檔，路徑設定到<span>data/py382</span></p>
-<p><span style="color: #ff6600;">※選項pip取消勾選</span></p>
-<p>(4) 下載<span>SciTE</span>系統，下載完後解壓縮至<span>data/wsite432</span></p>
-<p><span>(5) 建立新的<span>start.bat</span>、<span>stop.bat</span></span></p>
-<pre class="brush:html;auto-links:false;toolbar:false" contenteditable="false">@echo off
-set Disk=y
-subst %Disk%: "data"
-  
-%Disk%:
-  
-set HomePath=%Disk%:\home
-set HomeDrive=%Disk%:\home
-set Home=%Disk%:\home
-set USERPROFILE=%Disk%:\home
-  
-REM å°‡ç³»çµ± Python ç¨‹å¼çš„ io è¨­ç‚º utf-8
-set PYTHONIOENCODING="utf-8"
-  
-#REM for putty
-#Set GIT_HOME=%CDisk%:\portablegit\bin\
-#Set GIT_SSH=%Disk%:\putty\plink.exe
-  
-set PYTHONPATH=%Disk%:\py382\DLLs;%Disk%:\py382\Lib;%Disk%:\py382\Lib\site-packages;
-set PYTHONHOME=%Disk%:\py382
-  
-set path_python=%Disk%:\py382;%Disk%:\py382\Scripts;
-set path_msys2=%Disk%:\msys64\mingw64\bin;
-set path_git=%Disk%:\portablegit\bin;
-set path_tcc=%Disk%:\tcc;
-  
-path=%Disk%:;%path_python%;%path_msys2%;%path_git%;%path_tcc%;
-  
-start /MIN cmd.exe
-start /MIN cmd.exe
-start /MIN cmd.exe
-start /MIN cmd.exe
-  
-start /MIN %Disk%:\wscite432\wscite\SciTE.exe
-start /MIN %Disk%:\wscite432\wscite\SciTE.exe
-  
-Exit</pre>
-<pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">@echo off
-set Disk=y
-path=%PATH%;
-  
-taskkill /IM python.exe /F
-taskkill /IM pythonw.exe /F
-taskkill /IM scite.exe /F
-  
-REM çµ‚æ­¢è™›æ“¬ç¡¬ç¢Ÿèˆ‡ç›®éŒ„çš„å°æ‡‰
-subst %Disk%: /D
-REM é—œé–‰ cmd æŒ‡ä»¤è¦–çª—
-taskkill /IM cmd.exe /F
-  
-EXIT
-</pre>
-<p>(6) 下載<span>MSY32</span>至<span>data</span>下</p>
-<p>(7) 下載<span>Portable Git 64-bit Git for Windows Portable </span>至<span> data/portablegit</span></p>
-<p>(8) 執行指令，輸入<span>python get-pip.py</span>、<span>pip install flask bs4 lxml pelican </span></p>
-<p>    markdown flask_cors leo</p>
-<h4><strong style="color: #626262;">Four wheel car</strong></h4>
-<p>What do you need to know from <a href="http://www.coppeliarobotics.com/helpFiles/index.html">http://www.coppeliarobotics.com/helpFiles/index.html</a> to implement a four-wheeled robot?</p>
-<p><span style="color: #339966;">Simulation&amp;Simulation settings dialog</span></p>
-<p>  任何機器製作完成後，都需要進行模擬測試，以確保機器能正常運作，或者測試機器的耐用性及安全性。在這兩章節主要說明了如何建立模擬，也教了如何調整模擬的速度，這能使我們模擬起來更有效率，也講解了在模擬過程可能會發生的狀況及解決方法</p>
-<p><span style="color: #339966;">BubbleRob tutorial</span></p>
-<p>  此教程主要在教如何設置<span>bubbleRob</span>機器人，不只是設置模型外型及尺寸，還要設置模型的物理屬性；設置感測器則是為了偵測障礙物，讓機器人能順利避開障礙物；視覺感測器則是為了能夠讓我們在機器人模擬時觀察機器人前方狀況。</p>
-<p><span style="color: #339966;">Line following BubbleRob tutorial</span></p>
-<p> 在此教程中，旨在擴展<span>BubbleRob</span>的功能，以使<span>BubbleRob</span>遵循地面上的規則，也就是調整視覺感測器並設置路徑及給定程式碼，使機器人能隨著路徑運作。</p>
-<p><span style="color: #339966;">External controller tutorial</span></p>
-<p>  此教程說明多種方式能從外部控制機器人及模擬機器人，最方便的就是編寫程式碼直接附加到場景；另外還有利用編寫插件的方法。</p><br />Assignments << <a href='Assignments.html'>Previous</a> <a href='About.html'>Next</a> >> About</div>
+<br />Assignments << <a href='Assignments.html'>Previous</a> <a href='Portable system.html'>Next</a> >> Portable system</div>
         
     <!-- footer -->
       <div class="container">
