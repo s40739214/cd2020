@@ -45,15 +45,17 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## 40739214 協同產品設計實習
+<t tx="leo.20180902120523.10">## 協同產品設計實習
 
 ### 機械設計工程系
+### 四設計二乙/40739214/蔡伃捷
 
 &lt;small&gt;
 Created by [蔡伃捷](https://s40739214.github.io/cd2020/content/index.html)
 &lt;/small&gt;
 
 [倉儲](https://github.com/s40739214/cd2020)
+
 [網站](https://s40739214.github.io/cd2020/content/index.html)
 
 
