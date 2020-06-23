@@ -719,7 +719,10 @@ IPv4遠端控制
 W13 mini project 
 &lt;/h3&gt;
 &lt;hr size="5" align="center" noshade width="90%" color="#dde5ff"&gt;
-&lt;iframe src="http://mde.tw/cdbw13-1/content/index.html" width="640" height="480" frameborder="0" scrolling="yes"&gt;&lt;/iframe&gt;
+
+[倉儲](https://github.com/mdecourse/cdbw13-1)
+
+[網站](http://mde.tw/cdbw13-1/content/index.html)
 </t>
 <t tx="leo.20200623232155.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -734,7 +737,10 @@ W13 mini project
 W14 mini project 
 &lt;/h3&gt;
 &lt;hr size="5" align="center" noshade width="90%" color="#fff6dd"&gt;
-&lt;iframe src="http://mde.tw/cdbw14-3/content/index.html" width="100%" height="520px"&gt;&lt;/iframe&gt;
+
+[倉儲](http://mde.tw/cdbw14-3/content/index.html)
+
+[網站](https://github.com/mdecourse/cdbw14-3)
 
 
 </t>
@@ -759,7 +765,10 @@ W15 mini project
 &lt;/h3&gt;
 &lt;hr size="5" align="center" noshade width="90%" color="#00cc66"&gt;
 &lt;p&gt;
-&lt;iframe src="http://mde.tw/cdbw15-3/content/" width="640" height="480" frameborder="0" scrolling="yes"&gt;&lt;/iframe&gt;</t>
+
+[倉儲](http://mde.tw/cdbw15-3/content/)
+
+[網站](https://github.com/mdecourse/cdbw15-3)</t>
 <t tx="leo.20200623232412.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
