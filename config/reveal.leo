@@ -546,10 +546,7 @@ vertical: body pane on the botton</t>
 Assignment1
 &lt;/h3&gt;
 &lt;hr size="5" align="center" noshade width="90%" color="#ffccff"&gt;
-&lt;iframe frameborder="0" scrolling="no"
-     width="640" height="480"
-     src="https://drive.google.com/drive/u/2/folders/1CE49AUaT5AJRuHTe8JIKej05shEPndAk"&gt;
-&lt;/iframe&gt;</t>
+&lt;iframe src="https://drive.google.com/drive/u/2/folders/1CE49AUaT5AJRuHTe8JIKej05shEPndAk" style="width:600px; height:500px;" frameborder="0″&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200623225919.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
