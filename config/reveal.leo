@@ -719,9 +719,7 @@ IPv4遠端控制
 W13 mini project 
 &lt;/h3&gt;
 &lt;hr size="5" align="center" noshade width="90%" color="#dde5ff"&gt;
-&lt;iframe src="http://mde.tw/cdbw13-1/content/index.html" width="100%" height="520px"&gt;&lt;/iframe&gt;
-
-
+&lt;iframe src="http://mde.tw/cdbw13-1/content/index.html" width="640" height="480" frameborder="0" scrolling="yes"&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20200623232155.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
