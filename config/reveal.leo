@@ -582,7 +582,7 @@ Assignment1
 Assignment2
 &lt;/h3&gt;
 &lt;hr size="5" align="center" noshade width="90%" color="#BB9955"&gt;
-&lt;iframe src="file:///D:/%E5%8D%94%E5%90%8C%E8%A8%AD%E8%A8%88%E5%AF%A6%E7%BF%92/%E4%BD%9C%E6%A5%AD%E4%BA%8C/assignment2.pdf" width="100%" height="520px"&gt;&lt;/iframe&gt;</t>
+&lt;iframe src="https://drive.google.com/file/d/1SHE94_B5VB8ISuzMlvZR2a-i280AbN1d/preview" width="640" height="480"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200623230137.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -677,7 +677,7 @@ gm用戶登入、API連線設定
 Assignment3
 &lt;/h3&gt;
 &lt;hr size="5" align="center" noshade width="90%" color="#cceeee"&gt;
-&lt;iframe src="file:///D:/%E5%8D%94%E5%90%8C%E8%A8%AD%E8%A8%88%E5%AF%A6%E7%BF%92/%E4%BD%9C%E6%A5%AD%E4%B8%89/Assignment%203.pdf" width="100%" height="520px"&gt;&lt;/iframe&gt;</t>
+&lt;iframe src="https://drive.google.com/file/d/1BBSPtg8EMrRAketX_tBE61jkkLTfguJY/preview" width="640" height="480"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200623230839.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -761,7 +761,7 @@ W15 mini project
 &lt;/h3&gt;
 &lt;hr size="5" align="center" noshade width="90%" color="#00cc66"&gt;
 &lt;p&gt;
-&lt;iframe src="http://mde.tw/cdbw15-3/content/" width="100%" height="520px"&gt;&lt;/iframe&gt;</t>
+&lt;iframe src="http://mde.tw/cdbw15-3/content/" width="100%" height="520px" frameborder="0" scrolling="yes"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200623232412.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -776,7 +776,7 @@ final project
 &lt;/h3&gt;
 &lt;hr size="5" align="center" noshade width="90%" color="#CC66CC
 "&gt;
-&lt;iframe src="file:///D:/%E5%8D%94%E5%90%8C%E8%A8%AD%E8%A8%88%E5%AF%A6%E7%BF%92/final%20project.pdf" width="100%" height="520px"&gt;&lt;/iframe&gt;</t>
+&lt;iframe src="https://drive.google.com/file/d/1Odk2x8s2iF-dBpOVxfQGmCdpwg3pMDlI/preview" width="640" height="480"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200623232412.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
