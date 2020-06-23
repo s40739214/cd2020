@@ -21,8 +21,82 @@
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180902120523.11"><vh>快捷鍵</vh>
-<v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20200623120232.1"><vh>w1-5</vh>
+<v t="leo.20200623120232.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200623124527.1"><vh>內容</vh>
+<v t="leo.20200623124527.4"><vh>建立倉儲</vh>
+<v t="leo.20200623124527.5"><vh>1</vh></v>
+</v>
+<v t="leo.20200623225919.1"><vh>亂數分組</vh>
+<v t="leo.20200623225919.2"><vh>1</vh></v>
+</v>
+<v t="leo.20200623124527.6"><vh>Python3.7.3升級至Python3.8.2</vh>
+<v t="leo.20200623124527.7"><vh>2</vh></v>
+</v>
+<v t="leo.20200623124919.1"><vh>小組會議1</vh>
+<v t="leo.20200623124919.2"><vh>2</vh></v>
+</v>
+<v t="leo.20200623225229.1"><vh>assignment1</vh>
+<v t="leo.20200623225229.2"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20200623011318.1"><vh>w6-10</vh>
+<v t="leo.20200623011318.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200623230137.1"><vh>內容</vh>
+<v t="leo.20200623230137.2"><vh>OBS</vh>
+<v t="leo.20200623230137.3"><vh>1</vh></v>
+</v>
+<v t="leo.20200623230137.8"><vh>小組會議2</vh>
+<v t="leo.20200623230137.9"><vh>2</vh></v>
+</v>
+<v t="leo.20200623230137.10"><vh>assignment2</vh>
+<v t="leo.20200623230137.11"><vh>內容</vh></v>
+</v>
+<v t="leo.20200623230443.1"><vh>期中簡報</vh>
+<v t="leo.20200623230443.2"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20200623011731.1"><vh>w11-14</vh>
+<v t="leo.20200623011731.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200623230839.1"><vh>內容</vh>
+<v t="leo.20200623230839.2"><vh>gm用戶登入、API連線設定</vh>
+<v t="leo.20200623230839.3"><vh>1</vh></v>
+</v>
+<v t="leo.20200623230839.4"><vh>小組會議3</vh>
+<v t="leo.20200623230839.5"><vh>2</vh></v>
+</v>
+<v t="leo.20200623230839.6"><vh>assignment3</vh>
+<v t="leo.20200623230839.7"><vh>內容</vh></v>
+</v>
+<v t="leo.20200623230839.8"><vh>IPv4 Ubuntu對外連線設定操作</vh>
+<v t="leo.20200623230839.9"><vh>內容</vh></v>
+</v>
+<v t="leo.20200623230927.1"><vh>IPv4遠端控制</vh>
+<v t="leo.20200623230927.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200623231003.1"><vh>mini project</vh>
+<v t="leo.20200623231003.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200623232155.1"><vh>mini project</vh>
+<v t="leo.20200623232155.2"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20200623011753.1"><vh>w15-18</vh>
+<v t="leo.20200623011753.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200623232412.1"><vh>內容</vh>
+<v t="leo.20200623232412.2"><vh>mini project</vh>
+<v t="leo.20200623232412.3"><vh>1</vh></v>
+</v>
+<v t="leo.20200623232412.4"><vh>final project</vh>
+<v t="leo.20200623232412.5"><vh>2</vh></v>
+</v>
+<v t="leo.20200623232412.6"><vh>期末報告影片</vh>
+<v t="leo.20200623232412.7"><vh>內容</vh></v>
+</v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
@@ -34,6 +108,9 @@
 <v t="leo.20180902120523.18"><vh>導入影片</vh>
 <v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
 </v>
+</v>
+<v t="leo.20200623004439.1"><vh>快捷鍵</vh>
+<v t="leo.20200623004439.2"><vh>投影片快捷鍵</vh></v>
 </v>
 </v>
 </v>
@@ -47,7 +124,7 @@
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.10">## 協同產品設計實習
 
-#### 機械設計工程系
+### 機械設計工程系
 
 &lt;small&gt;
 Created by [40739214 蔡伃捷](https://s40739214.github.io/cd2020/content/index.html)
@@ -58,24 +135,6 @@ Created by [40739214 蔡伃捷](https://s40739214.github.io/cd2020/content/index
 [網站](https://s40739214.github.io/cd2020/content/index.html)
 
 
-</t>
-<t tx="leo.20180902120523.11">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180902120523.12"># 投影片快捷鍵
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
 </t>
 <t tx="leo.20180902120523.13">&lt;section&gt;
@@ -325,5 +384,412 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="leo.20200623004439.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623004439.2"># 投影片快捷鍵
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20200623011318.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623011318.2"># week6-week10
+&lt;hr size="5" align="center" noshade width="90%" color="#00ccff"&gt;
+&lt;p&gt;
+* 小組直播開會分配Assignment2
+* 下載OBS
+* 完成Assignment2
+* 完成期中簡報
+
+
+</t>
+<t tx="leo.20200623011731.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623011731.2"># week11-week14
+&lt;hr size="5" align="center" noshade width="90%" color="#ffff33"&gt;
+&lt;p&gt;
+* 小組直播開會分配Assignment3
+*  gm用戶登入、API連線設定
+*  IPv4 Ubuntu對外連線設定操作
+*  IPv4遠端控制
+*  完成Assignment3
+*  mini project
+
+</t>
+<t tx="leo.20200623011753.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623011753.2"># week15-week18
+&lt;hr size="5" align="center" noshade width="90%" color="#00cc66"&gt;
+&lt;p&gt;
+* mini project
+* 完成final project
+* 完成期末報告
+
+
+
+</t>
+<t tx="leo.20200623120232.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623120232.2"># week1-week5
+&lt;hr size="5" align="center" noshade width="90%" color="#ff99cc"&gt;
+&lt;p&gt;
+* 亂數分組
+* 建立個人倉儲[cd2020]
+* Python3.7.3升級至Python3.8.2
+* 小組直播開會分配Assignment1
+* 完成Assignment1
+
+
+</t>
+<t tx="leo.20200623124527.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20200623124527.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20200623124527.5">&lt;h3&gt;
+建立個人倉儲
+&lt;/h3&gt;
+&lt;hr size="5" align="center" noshade width="90%" color="#EE0000
+"&gt;
+&lt;p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/NOnSq3zrxDg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200623124527.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623124527.7">&lt;h3&gt;
+ Python3.7.3升級至Python3.8.2
+&lt;/h3&gt;
+&lt;hr size="5" align="center" noshade width="90%" color="#FF6699"&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/geKi4BFJb3Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200623124919.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623124919.2">&lt;h3&gt;
+小組直播開會分配Assignment1
+&lt;/h3&gt;
+&lt;hr size="5" align="center" noshade width="90%" color="#FFCC00"&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ZMKNMympFY0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200623225229.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623225229.2">&lt;h3&gt;
+Assignment1
+&lt;/h3&gt;
+&lt;hr size="5" align="center" noshade width="90%" color="#ffccff"&gt;
+&lt;iframe src="file:///D:/%E5%8D%94%E5%90%8C%E8%A8%AD%E8%A8%88%E5%AF%A6%E7%BF%92/%E4%BD%9C%E6%A5%AD%E4%B8%80/Assignment1.pdf" width="100%" height="520px"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200623225919.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20200623225919.2">&lt;h3&gt;
+亂數分組
+&lt;/h3&gt;
+&lt;hr size="5" align="center" noshade width="90%" color="#FF6600"&gt;
+&lt;p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/8DPiM75fRQQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200623230137.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20200623230137.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623230137.11">&lt;h3&gt;
+Assignment2
+&lt;/h3&gt;
+&lt;hr size="5" align="center" noshade width="90%" color="#BB9955"&gt;
+&lt;iframe src="file:///D:/%E5%8D%94%E5%90%8C%E8%A8%AD%E8%A8%88%E5%AF%A6%E7%BF%92/%E4%BD%9C%E6%A5%AD%E4%BA%8C/assignment2.pdf" width="100%" height="520px"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200623230137.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20200623230137.3">&lt;h3&gt;
+下載OBS
+&lt;/h3&gt;
+&lt;hr size="5" align="center" noshade width="90%" color="#99ccff"&gt;
+&lt;p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uVdXYnyjxPg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200623230137.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623230137.9">&lt;h3&gt;
+小組直播開會分配Assignment2
+&lt;/h3&gt;
+&lt;hr size="5" align="center" noshade width="90%" color="#AAFFBB"&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/IX0Xw1ROTgg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200623230443.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623230443.2">&lt;h3&gt;
+期中簡報
+&lt;/h3&gt;
+&lt;hr size="5" align="center" noshade width="90%" color="#CC6677"&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_rzsFZNXMfE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200623230839.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20200623230839.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20200623230839.3">&lt;h3&gt;
+gm用戶登入、API連線設定
+&lt;/h3&gt;
+&lt;hr size="5" align="center" noshade width="90%" color="#FFFFCC"&gt;
+&lt;p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6klM1RR-Iso" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200623230839.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623230839.5">&lt;h3&gt;
+小組直播開會分配Assignment3
+&lt;/h3&gt;
+&lt;hr size="5" align="center" noshade width="90%" color="#66cccc"&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jyIoV8YR-b4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200623230839.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623230839.7">&lt;h3&gt;
+Assignment3
+&lt;/h3&gt;
+&lt;hr size="5" align="center" noshade width="90%" color="#cceeee"&gt;
+&lt;iframe src="file:///D:/%E5%8D%94%E5%90%8C%E8%A8%AD%E8%A8%88%E5%AF%A6%E7%BF%92/%E4%BD%9C%E6%A5%AD%E4%B8%89/Assignment%203.pdf" width="100%" height="520px"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200623230839.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623230839.9">&lt;h3&gt;
+IPv4 Ubuntu對外連線設定操作
+&lt;/h3&gt;
+&lt;hr size="5" align="center" noshade width="90%" color="#ffdddd"&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/5Rst5RicUPQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200623230927.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623230927.2">&lt;h3&gt;
+IPv4遠端控制
+&lt;/h3&gt;
+&lt;hr size="5" align="center" noshade width="90%" color="#ddffdd"&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PoqXvBK6O0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200623231003.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623231003.2">&lt;h3&gt;
+W13 mini project 
+&lt;/h3&gt;
+&lt;hr size="5" align="center" noshade width="90%" color="#dde5ff"&gt;
+&lt;iframe src="http://mde.tw/cdbw13-1/content/index.html" width="100%" height="520px"&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20200623232155.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623232155.2">&lt;h3&gt;
+W14 mini project 
+&lt;/h3&gt;
+&lt;hr size="5" align="center" noshade width="90%" color="#fff6dd"&gt;
+&lt;iframe src="http://mde.tw/cdbw14-3/content/index.html" width="100%" height="520px"&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20200623232412.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20200623232412.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20200623232412.3">&lt;h3&gt;
+W15 mini project
+&lt;/h3&gt;
+&lt;hr size="5" align="center" noshade width="90%" color="#00cc66"&gt;
+&lt;p&gt;
+&lt;iframe src="http://mde.tw/cdbw15-3/content/" width="100%" height="520px"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200623232412.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623232412.5">&lt;h3&gt;
+final project
+&lt;/h3&gt;
+&lt;hr size="5" align="center" noshade width="90%" color="#CC66CC
+"&gt;
+&lt;iframe src="file:///D:/%E5%8D%94%E5%90%8C%E8%A8%AD%E8%A8%88%E5%AF%A6%E7%BF%92/final%20project.pdf" width="100%" height="520px"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200623232412.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623232412.7">&lt;h3&gt;
+Assignment2
+&lt;/h3&gt;
+&lt;hr size="5" align="center" noshade width="90%" color="#CCFFEE"&gt;
+&lt;iframe src="file:///D:/%E5%8D%94%E5%90%8C%E8%A8%AD%E8%A8%88%E5%AF%A6%E7%BF%92/%E4%BD%9C%E6%A5%AD%E4%BA%8C/assignment2.pdf" width="100%" height="520px"&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
