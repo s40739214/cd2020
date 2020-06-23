@@ -761,7 +761,7 @@ W15 mini project
 &lt;/h3&gt;
 &lt;hr size="5" align="center" noshade width="90%" color="#00cc66"&gt;
 &lt;p&gt;
-&lt;iframe src="http://mde.tw/cdbw15-3/content/" width="100%" height="520px" frameborder="0" scrolling="yes"&gt;&lt;/iframe&gt;</t>
+&lt;iframe src="http://mde.tw/cdbw15-3/content/" width="200" height="200" frameborder="0" scrolling="yes"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200623232412.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
