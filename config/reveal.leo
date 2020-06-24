@@ -415,7 +415,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200623011318.2"># week6-week10
+<t tx="leo.20200623011318.2"># week6-week10(https://s40739214.github.io/cd2020/content/week6-9.html)
 &lt;hr size="5" align="center" noshade width="90%" color="#00ccff"&gt;
 &lt;p&gt;
 * 小組直播開會分配Assignment2
@@ -434,7 +434,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200623011731.2"># week11-week14
+<t tx="leo.20200623011731.2"># week11-week14(https://s40739214.github.io/cd2020/content/week10-14.html)
 &lt;hr size="5" align="center" noshade width="90%" color="#ffff33"&gt;
 &lt;p&gt;
 * 小組直播開會分配Assignment3
@@ -454,7 +454,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200623011753.2"># week15-week18
+<t tx="leo.20200623011753.2"># week15-week18(https://s40739214.github.io/cd2020/content/week15-18.html)
 &lt;hr size="5" align="center" noshade width="90%" color="#00cc66"&gt;
 &lt;p&gt;
 * mini project
@@ -474,7 +474,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200623120232.2"># week1-week5
+<t tx="leo.20200623120232.2"># week1-week5(https://s40739214.github.io/cd2020/content/week1-5.html)
 &lt;hr size="5" align="center" noshade width="90%" color="#ff99cc"&gt;
 &lt;p&gt;
 * 亂數分組
