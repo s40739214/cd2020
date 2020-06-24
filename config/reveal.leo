@@ -91,6 +91,9 @@
 <v t="leo.20200623232412.2"><vh>mini project</vh>
 <v t="leo.20200623232412.3"><vh>1</vh></v>
 </v>
+<v t="leo.20200624143735.1"><vh>IPV6</vh>
+<v t="leo.20200624143735.2"><vh>內容</vh></v>
+</v>
 <v t="leo.20200623232412.4"><vh>final project</vh>
 <v t="leo.20200623232412.5"><vh>2</vh></v>
 </v>
@@ -455,6 +458,7 @@ vertical: body pane on the botton</t>
 &lt;hr size="5" align="center" noshade width="90%" color="#00cc66"&gt;
 &lt;p&gt;
 * mini project
+* IPv6
 * 完成final project
 * 完成期末報告
 
@@ -794,9 +798,23 @@ final project
 						
 </t>
 <t tx="leo.20200623232412.7">&lt;h3&gt;
-Assignment2
+期末報告
 &lt;/h3&gt;
 &lt;hr size="5" align="center" noshade width="90%" color="#CCFFEE"&gt;
-&lt;iframe src="file:///D:/%E5%8D%94%E5%90%8C%E8%A8%AD%E8%A8%88%E5%AF%A6%E7%BF%92/%E4%BD%9C%E6%A5%AD%E4%BA%8C/assignment2.pdf" width="100%" height="520px"&gt;&lt;/iframe&gt;</t>
+</t>
+<t tx="leo.20200624143735.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624143735.2">&lt;h3&gt;
+IPv6遠端控制伺服、Ubuntu對外連線設定、連線個人倉儲
+&lt;/h3&gt;
+&lt;hr size="5" align="center" noshade width="90%" color="#ffdddd"&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_1OOqh4ibVE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
